@@ -1,0 +1,13 @@
+.App{
+    width: 30%;
+    min-height: 200px;
+    box-shadow: 0 0 2px 2px black;
+    margin:auto;
+}
+
+.AppBox{
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+    margin:auto;
+}
